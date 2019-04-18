@@ -1,0 +1,16 @@
+{
+"companyName": "ZaryCorp",
+"productName": "OBA",
+"productVersion": "0.9",
+"dataUrl": "OBA WEB.data.unityweb",
+"wasmCodeUrl": "OBA WEB.wasm.code.unityweb",
+"wasmFrameworkUrl": "OBA WEB.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
